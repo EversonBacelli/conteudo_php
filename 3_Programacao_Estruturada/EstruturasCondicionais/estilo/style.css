@@ -1,0 +1,17 @@
+
+#body{
+    background-color:green;
+}
+
+#card1{
+    background-color: red;
+}
+
+
+#tituloCard{
+    font-size: 35px ;
+}
+
+#case{
+    background-color: violet !important;
+}

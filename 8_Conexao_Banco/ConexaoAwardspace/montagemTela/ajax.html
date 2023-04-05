@@ -1,0 +1,13 @@
+<script type="text/javascript"> 
+    function teste(login){
+        $.ajax({
+            url: 'http://localhost:8081/Conexao/excluir.php',
+            method: 'post',
+            data: {login: login},
+            success:function(response){
+                alert(login);
+                location.reload();
+            } 
+        });
+    }
+</script>

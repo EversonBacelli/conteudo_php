@@ -1,0 +1,45 @@
+
+#body{
+    background-color: gray;
+}
+
+#card1{
+    background-color: chocolate;
+    border-radius: 10px;
+}
+
+#tabuleiro{
+    margin-top: 120px;
+    
+}
+
+#imagemPeca{
+    width: 150x;
+    height: 150px;
+}
+
+#imagem{
+    width: 500px;
+    height: 250px;
+}
+
+#titulo{
+    font-size: 40px;
+}
+
+#grid{
+    margin-top: -27px;
+    margin-left: 300px;
+}
+
+#gridItem{
+    background-color: white;
+    max-width: 50px;
+    text-align: center;
+}
+
+#gridItem1{
+    background-color: black;
+    max-width: 50px;
+    text-align: center;
+}

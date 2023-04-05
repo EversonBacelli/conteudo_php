@@ -1,0 +1,60 @@
+
+#body{
+    background-color:blue;
+}
+
+#card1{
+    background-color: red;
+}
+
+
+#tituloCard{
+    font-size: 15px ;
+    color: green;
+}
+
+#produto{
+    background-color: black !important;
+    margin-bottom: 15px;
+}
+
+#cardTexto{
+    color: chartreuse;
+}
+
+#img{
+    height: 250px !important;
+    width: 395px !important;
+}
+
+#form{
+    margin-left: 20px;
+}
+
+.input{
+    width: 500px !important;
+}
+
+#label {
+    color: white;
+}
+
+#t1{
+    margin-left: 20px;
+    text-align: initial;
+    background-color: black;
+    border-radius: 5px;
+    color: blanchedalmond;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#t2{
+    margin-right: 50px;
+    background-color: black;
+    border-radius: 5px;
+    color: blanchedalmond;
+    text-decoration: none;
+    padding: 10px;
+
+}
